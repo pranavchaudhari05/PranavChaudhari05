@@ -4,8 +4,8 @@
 💻 I’m a Full Stack Web Developer (MERN)  
 📫 Reach me at **pranavchaudhari6622@gmail.com** 
 
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl3OGUzcG1tcTBuMHowaW5yOWc2M3cxZXBkNm9lMTc0bGxybDdycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="400" alt="My Image">
- 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl3OGUzcG1tcTBuMHowaW5yOWc2M3cxZXBkNm9lMTc0bGxybDdycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="400" alt="My Image">
+  
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https:www.linkedin.com/in/pranav-chaudhari05)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/your-handle)
