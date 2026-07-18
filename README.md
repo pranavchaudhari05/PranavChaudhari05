@@ -1,19 +1,95 @@
-# Hi 👋, I'm Pranav Chaudhari  
+<h1 align="center">Hi 👋, I'm Pranav Chaudhari</h1>
 
-🎓 I'm a BE Electronics & Telecommunication Student  
-💻 I’m a Full Stack Web Developer (MERN)  
-📫 Reach me at **pranavchaudhari6622@gmail.com** 
+<h3 align="center">
+🚀 Full Stack Developer (MERN) | AI Enthusiast | Electronics & Telecommunication Engineer
+</h3>
 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl3OGUzcG1tcTBuMHowaW5yOWc2M3cxZXBkNm9lMTc0bGxybDdycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="400" alt="My Image">
-  
-### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https:www.linkedin.com/in/pranav-chaudhari05)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/your-handle)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+%26+Creating" />
+</p>
 
-### 💻 Languages and Tools:
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/237366dd-9205-49ff-a9c8-e4109d08fbcb" /><img width="50" height="60" alt="image" src="https://github.com/user-attachments/assets/b7d03d74-622a-4c40-9623-60382e962938" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/37cda644-8b6a-4140-8dcc-7bc6c1343ca4" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/92034e5d-afbd-4db2-bff0-6b2630df47e3" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2690109b-515c-4d54-be20-bb63acb7ce48" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a364e6d2-6230-4ccf-a8c6-344271ca999c" />
+---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
+</p>
 
+## 👨‍💻 About Me
 
+- 🎓 BE Electronics & Telecommunication Engineering
+- 💻 Passionate Full Stack Developer (MERN)
+- 🤖 Interested in AI-powered Applications
+- 🚀 Love building scalable and user-friendly web applications
+- 📫 **Reach me:** pranavchaudharicareer@gmail.com
 
+---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,postgres,html,css,tailwind,git,github,vscode"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 IntelliHire
+
+**AI Powered Resume Evaluation & Job Portal**
+
+**Tech Stack**
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Python
+- NLP
+
+**Key Features**
+- ✅ ATS Resume Score
+- ✅ AI Resume Matching
+- ✅ Recruiter Dashboard
+- ✅ Applicant Dashboard
+- ✅ AI Career Coach Chatbot
+
+---
+
+### 🛒 MERN E-Commerce
+
+- User Authentication
+- Admin Dashboard
+- Product Management
+- Secure Payments
+
+---
+
+## 💼 Currently Working On
+
+- 🚀 Full Stack Web Development using the MERN Stack
+- 🌐 Developing responsive and scalable web applications
+- 🔗 Building RESTful APIs and backend systems
+- 🤖 Integrating AI into modern web applications
+- ⚡ Writing clean, maintainable, and efficient code
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pranav-chaudhari05/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_LINK">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:pranavchaudhari6622@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
